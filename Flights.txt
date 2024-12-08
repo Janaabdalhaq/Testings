@@ -1,0 +1,3 @@
+101,New York,Active
+102,London,Active
+103,Dubai,Inactive

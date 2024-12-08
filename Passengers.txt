@@ -1,0 +1,5 @@
+1,Diana,103,Regular
+2,Sama,101,VIP
+1003,Bob,103,Regular
+1001,SamiHusam,101,VIP
+1006,jana,101,VIP
